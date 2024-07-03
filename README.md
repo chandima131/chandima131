@@ -1,9 +1,8 @@
 # 🏠
 ## Chandima Samarakoon
-@chandima131 · he/him
+@chandima131 · she/her
 
 Passionate full-stack developer with a knack for problem-solving. Proactive and results-driven, I'm not just a talker, but someone who gets things done.
-4 followers · 3 following
 
 Peterborough, Cambridgeshire, United Kingdom
 
