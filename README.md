@@ -77,17 +77,15 @@ Feel free to explore my project portfolio, and I welcome the opportunity to disc
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
+| Repository | |
+|------------|-------------|
+| ![Star](https://img.shields.io/badge/⭐-Star-yellow) [Investment Appilication](https://github.com/chandima131/InvestmentApplication) |
+| ![B](https://img.shields.io/badge/🔹-B-blue) [Book Store](https://github.com/chandima131/Book-Store-MERN) |
+| ![B](https://img.shields.io/badge/🔹-B-blue) [Lunch With Me Dating App](https://github.com/chandima131/Lunch_with_Me_FrontEnd) |
+| ![B](https://img.shields.io/badge/🔹-B-blue) [Sinhala-Text-Classification](https://github.com/chandima131/Sinhala-Text-Classification) |
 
-## 🔝 Top Contributed Repos
-
-### Chandima Samarakoon's GitHub Contributor Stats
 
 
-| ![Star](https://img.shields.io/badge/⭐-Star-yellow) [awesome-project](https://github.com/chandima131/awesome-project) | A comprehensive web application built with React and Node.js, featuring a responsive design, user authentication, and real-time data visualization. |
-| ![B](https://img.shields.io/badge/🔹-B-blue) [project-two](https://github.com/chandima131/project-two) | This project showcases my skills in data science and machine learning. It includes a detailed analysis and predictive model. |
-| ![B](https://img.shields.io/badge/🔹-B-blue) [cool-library](https://github.com/chandima131/cool-library) | A reusable library for handling complex data transformations and calculations. Written in TypeScript. |
-| ![B](https://img.shields.io/badge/🔹-B-blue) [another-repo](https://github.com/chandima131/another-repo) | A sample project demonstrating integration with various APIs and third-party services. |
-| ![B](https://img.shields.io/badge/🔹-B-blue) [final-repo](https://github.com/chandima131/final-repo) | A final project with comprehensive documentation and multiple features including user management and data visualization. |
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=chandima131&color=blue)
