@@ -80,6 +80,5 @@ Feel free to explore my project portfolio, and I welcome the opportunity to disc
 
 ![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=chandima131&repo=InvestmentApplication&theme=radical)
 
-## Profile View
 ![Visitor Count](https://komarev.com/ghpvc/?username=chandima131&color=blue)
 
