@@ -50,4 +50,4 @@ HTML5, JavaScript, CSS3, TypeScript, Vercel, AWS, GitHub Pages, Bootstrap, Chakr
 
 ## 🔝 Top Contributed Repo
 
-![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=chandima131&repo=TopRepo&theme=radical)
+![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=chandima131&repo=InvestmentApplication&theme=radical)
